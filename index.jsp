@@ -1,4 +1,5 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%> 
-<title>Epic Ass Name</title>
+<%@ include file="header.jsp"%>
+
 <br/> 
 <br/>
